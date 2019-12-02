@@ -1,0 +1,22 @@
+{
+    "host": "https://api.vhack.cc/mobile/",
+    "chat_address": "54.37.205.154:7531",
+    "version": "36",
+    "account": {
+        "username": "",
+        "alias": "",
+        "password": "",
+        "email": "",
+        "token": "",
+        "useragent": "Dalvik/2.1.0 (Linux; U; Android 69.69.69;)",
+        "uid": "",
+        "firebase": "",
+        "language": "en",
+        "channel": "#english",
+        "timezone": "Europe/Amsterdam",
+        "talking_odds": {
+            "mentioned": 85,
+            "random": 45
+        }
+    }
+}
